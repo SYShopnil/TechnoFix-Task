@@ -5,6 +5,7 @@ import { CiMenuBurger } from 'react-icons/ci';
 import { DynamicCheckBox } from '@src/components/root';
 
 export const DynamicTable = ({ tableData }: ITableData) => {
+  const checkBoxRef = useRef<HTMLDivElement>(null);
   // default value of checkBox
   const defaultCheckBoxData = [
     {
@@ -37,7 +38,7 @@ export const DynamicTable = ({ tableData }: ITableData) => {
     },
   ];
   const [isSideBarVisible, setIsSideBarVisible] = useState<boolean>(true);
-  const checkBoxRef = useRef<HTMLDivElement>(null);
+
   // handle the checkbox data to operate it dynamic way
   const [checkBoxData, setCheckBoxData] =
     useState<
@@ -58,6 +59,7 @@ export const DynamicTable = ({ tableData }: ITableData) => {
   );
   const remainingColumns: number = totalColumns % selectedFields.length;
 
+  // all function handler here
   const checkBoxHandler = (hitIndex: number) => {
     const newCHeckBox = checkBoxData.map((checkBoxPrevData, ind) => {
       if (ind == hitIndex) {

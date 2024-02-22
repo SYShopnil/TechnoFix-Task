@@ -8,8 +8,17 @@
 
 ## Demo
 
-- **Landing page**
+- **When All Field are checked**
   <img src = "public/webDemo/landingPage.png"  >
+
+- **When Title, Author, Status and Action are checked**
+  <img src = "public/webDemo/landingPageTwo.png"  >
+
+- **When Title has unchecked**
+  <img src = "public/webDemo/landingPageThree.png"  >
+
+- **When Title has again checked**
+  <img src = "public/webDemo/landingPageFour.png"  >
 
 ## Run Locally
 

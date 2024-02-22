@@ -1,0 +1,1098 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When landing page will view Expect it has been rendered successfully 1`] = `
+<div
+  class="container"
+  data-testid="landingPagePicker"
+>
+  <div
+    class="flex justify-between bg-[#FFFFFF] mt-5 p-4 shadow-md rounded-md"
+  >
+    <div
+      class="flex-[0_1_40%]"
+    >
+      <div
+        class="flex justify-between"
+      >
+        <div
+          class="flex justify-center items-center"
+        >
+          <span
+            class="flex-[0_1_10%] mr-8"
+          >
+            <svg
+              fill="#7A67ED"
+              height="55"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="55"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 2 0 9 12 16 22 10.1667V17.5H24V9L12 2ZM3.99902 13.4905V18.0001C5.82344 20.429 8.72812 22.0001 11.9998 22.0001 15.2714 22.0001 18.1761 20.429 20.0005 18.0001L20.0001 13.4913 12.0003 18.1579 3.99902 13.4905Z"
+              />
+            </svg>
+          </span>
+          <span
+            class="text-center flex-[0_1_90%] text-[1.2rem] font-semibold"
+          >
+            All Courses
+          </span>
+        </div>
+        <span
+          class="flex justify-center items-center"
+        >
+          <a
+            href="/"
+            target="_self"
+          >
+            <span
+              class="flex justify-center items-center  "
+            >
+              <span
+                class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]   "
+              >
+                <span>
+                  Add New Course
+                </span>
+              </span>
+            </span>
+          </a>
+        </span>
+      </div>
+    </div>
+    <div
+      class="flex-[0_1_40%]"
+    />
+    <div
+      class="flex-[0_1_20%] flex justify-center items-end"
+    >
+      <div
+        class="bg-transparent border-[#7A67EE] border-2 border-solid  rounded-full p-2"
+      >
+        <svg
+          fill="#7A67ED"
+          height="45"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 24 24"
+          width="45"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+          />
+          <path
+            d="M11.07 12.85c.77-1.39 2.25-2.21 3.11-3.44.91-1.29.4-3.7-2.18-3.7-1.69 0-2.52 1.28-2.87 2.34L6.54 6.96C7.25 4.83 9.18 3 11.99 3c2.35 0 3.96 1.07 4.78 2.41.7 1.15 1.11 3.3.03 4.9-1.2 1.77-2.35 2.31-2.97 3.45-.25.46-.35.76-.35 2.24h-2.89c-.01-.78-.13-2.05.48-3.15zM14 20c0 1.1-.9 2-2 2s-2-.9-2-2 .9-2 2-2 2 .9 2 2z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      class=" bg-white mt-5 p-5 "
+    >
+      <div
+        class="relative mb-3"
+      >
+        <div
+          class="flex justify-between items-end"
+        >
+          <div
+            class=""
+          >
+            <p
+              class="bg-white text-lg font-bold"
+            >
+              Table Title
+            </p>
+          </div>
+          <div
+            class="cursor-pointer border hover:border border-white p-3 rounded-full hover:shadow-md hover:border-[#7A67EF] duration-75"
+          >
+            <svg
+              fill="#B8B8B8"
+              height="20"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                id="Menu_Burger"
+              >
+                <path
+                  d="M3.563,4.063c-0.276,-0 -0.5,-0.224 -0.5,-0.5c-0,-0.276 0.224,-0.5 0.5,-0.5l16.874,-0.001c0.276,-0 0.5,0.224 0.5,0.5c0,0.276 -0.224,0.5 -0.5,0.5l-16.874,0.001Z"
+                />
+                <path
+                  d="M3.563,12.501c-0.276,-0 -0.5,-0.224 -0.5,-0.5c-0,-0.276 0.224,-0.5 0.5,-0.5l16.874,-0.002c0.276,0 0.5,0.224 0.5,0.5c0,0.276 -0.224,0.5 -0.5,0.5l-16.874,0.002Z"
+                />
+                <path
+                  d="M3.563,20.939c-0.276,-0 -0.5,-0.224 -0.5,-0.5c-0,-0.276 0.224,-0.5 0.5,-0.5l16.874,-0.002c0.276,0 0.5,0.224 0.5,0.5c0,0.276 -0.224,0.5 -0.5,0.5l-16.874,0.002Z"
+                />
+              </g>
+            </svg>
+          </div>
+        </div>
+        <div
+          class="absolute right-0 top-0"
+        >
+          <div
+            class="bg-[#FFFFFF] shadow-primary p-4 space-y-4 "
+            data-testid="checkBoxPicker"
+          >
+            <div>
+              <h1
+                class="font-semibold text-black"
+              >
+                Add or removes columns
+              </h1>
+            </div>
+            <div
+              class="space-y-8"
+            >
+              <div>
+                <label
+                  for="title"
+                >
+                  <span
+                    class="relative"
+                  >
+                    <input
+                      checked=""
+                      class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+                      type="checkbox"
+                    />
+                  </span>
+                  <span
+                    class="ml-2 font-semibold capitalize text-[1.25rem]"
+                  >
+                    title
+                  </span>
+                </label>
+              </div>
+              <div>
+                <label
+                  for="categories"
+                >
+                  <span
+                    class="relative"
+                  >
+                    <input
+                      checked=""
+                      class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+                      type="checkbox"
+                    />
+                  </span>
+                  <span
+                    class="ml-2 font-semibold capitalize text-[1.25rem]"
+                  >
+                    categories
+                  </span>
+                </label>
+              </div>
+              <div>
+                <label
+                  for="author"
+                >
+                  <span
+                    class="relative"
+                  >
+                    <input
+                      checked=""
+                      class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+                      type="checkbox"
+                    />
+                  </span>
+                  <span
+                    class="ml-2 font-semibold capitalize text-[1.25rem]"
+                  >
+                    author
+                  </span>
+                </label>
+              </div>
+              <div>
+                <label
+                  for="date"
+                >
+                  <span
+                    class="relative"
+                  >
+                    <input
+                      checked=""
+                      class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+                      type="checkbox"
+                    />
+                  </span>
+                  <span
+                    class="ml-2 font-semibold capitalize text-[1.25rem]"
+                  >
+                    date
+                  </span>
+                </label>
+              </div>
+              <div>
+                <label
+                  for="price"
+                >
+                  <span
+                    class="relative"
+                  >
+                    <input
+                      checked=""
+                      class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+                      type="checkbox"
+                    />
+                  </span>
+                  <span
+                    class="ml-2 font-semibold capitalize text-[1.25rem]"
+                  >
+                    price
+                  </span>
+                </label>
+              </div>
+              <div>
+                <label
+                  for="status"
+                >
+                  <span
+                    class="relative"
+                  >
+                    <input
+                      checked=""
+                      class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+                      type="checkbox"
+                    />
+                  </span>
+                  <span
+                    class="ml-2 font-semibold capitalize text-[1.25rem]"
+                  >
+                    status
+                  </span>
+                </label>
+              </div>
+              <div>
+                <label
+                  for="action"
+                >
+                  <span
+                    class="relative"
+                  >
+                    <input
+                      checked=""
+                      class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+                      type="checkbox"
+                    />
+                  </span>
+                  <span
+                    class="ml-2 font-semibold capitalize text-[1.25rem]"
+                  >
+                    action
+                  </span>
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="grid grid-cols-14 "
+        style="grid-template-columns: repeat(14, minmax(0, 1fr));"
+      >
+        <div
+          class="p-2 bg-transparent border-b capitalize"
+          style="grid-column: span 2;"
+        >
+          <strong>
+            title
+          </strong>
+        </div>
+        <div
+          class="p-2 bg-transparent border-b capitalize"
+          style="grid-column: span 2;"
+        >
+          <strong>
+            categories
+          </strong>
+        </div>
+        <div
+          class="p-2 bg-transparent border-b capitalize"
+          style="grid-column: span 2;"
+        >
+          <strong>
+            author
+          </strong>
+        </div>
+        <div
+          class="p-2 bg-transparent border-b capitalize"
+          style="grid-column: span 2;"
+        >
+          <strong>
+            date
+          </strong>
+        </div>
+        <div
+          class="p-2 bg-transparent border-b capitalize"
+          style="grid-column: span 2;"
+        >
+          <strong>
+            price
+          </strong>
+        </div>
+        <div
+          class="p-2 bg-transparent border-b capitalize"
+          style="grid-column: span 2;"
+        >
+          <strong>
+            status
+          </strong>
+        </div>
+        <div
+          class="p-2 bg-transparent border-b capitalize"
+          style="grid-column: span 2;"
+        >
+          <strong>
+            action
+          </strong>
+        </div>
+      </div>
+      <div>
+        <div
+          class="grid grid-cols-14 "
+          style="grid-template-columns: repeat(14, minmax(0, 1fr));"
+        >
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <p
+                class="bg-white"
+              >
+                AWWWEEE
+              </p>
+              <p
+                class="bg-white"
+              >
+                Topic: 
+                1
+              </p>
+              <p
+                class="bg-white"
+              >
+                Lesson: 
+                1
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                Technology
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                John Doe
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                February 04, 2024 11:26AM
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                1500
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#EBF5EC] hover:bg-[#449657]  duration-[0.5s] text-[#449657] hover:text-[#EBF5EC]   border-[0.063rem] hover:border-[#EBF5EC] border-[#449657]   "
+                  >
+                    <span>
+                      publish
+                    </span>
+                    <span
+                      class="ml-[1rem] h-[1.5rem] w-[1.5rem]  flex justify-center items-center"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="1em"
+                        stroke="currentColor"
+                        stroke-width="0"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]   "
+                  >
+                    <span>
+                      Edit
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="grid grid-cols-14 "
+          style="grid-template-columns: repeat(14, minmax(0, 1fr));"
+        >
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <p
+                class="bg-white"
+              >
+                AWWWEEE
+              </p>
+              <p
+                class="bg-white"
+              >
+                Topic: 
+                1
+              </p>
+              <p
+                class="bg-white"
+              >
+                Lesson: 
+                1
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                Technology
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                John Doe
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                February 04, 2024 11:26AM
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                1500
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#EBF5EC] hover:bg-[#449657]  duration-[0.5s] text-[#449657] hover:text-[#EBF5EC]   border-[0.063rem] hover:border-[#EBF5EC] border-[#449657]   "
+                  >
+                    <span>
+                      publish
+                    </span>
+                    <span
+                      class="ml-[1rem] h-[1.5rem] w-[1.5rem]  flex justify-center items-center"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="1em"
+                        stroke="currentColor"
+                        stroke-width="0"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]   "
+                  >
+                    <span>
+                      Edit
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="grid grid-cols-14 "
+          style="grid-template-columns: repeat(14, minmax(0, 1fr));"
+        >
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <p
+                class="bg-white"
+              >
+                AWWWEEE
+              </p>
+              <p
+                class="bg-white"
+              >
+                Topic: 
+                1
+              </p>
+              <p
+                class="bg-white"
+              >
+                Lesson: 
+                1
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                Technology
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                John Doe
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                February 04, 2024 11:26AM
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                1500
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#EBF5EC] hover:bg-[#449657]  duration-[0.5s] text-[#449657] hover:text-[#EBF5EC]   border-[0.063rem] hover:border-[#EBF5EC] border-[#449657]   "
+                  >
+                    <span>
+                      publish
+                    </span>
+                    <span
+                      class="ml-[1rem] h-[1.5rem] w-[1.5rem]  flex justify-center items-center"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="1em"
+                        stroke="currentColor"
+                        stroke-width="0"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]   "
+                  >
+                    <span>
+                      Edit
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="grid grid-cols-14 "
+          style="grid-template-columns: repeat(14, minmax(0, 1fr));"
+        >
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <p
+                class="bg-white"
+              >
+                AWWWEEE
+              </p>
+              <p
+                class="bg-white"
+              >
+                Topic: 
+                1
+              </p>
+              <p
+                class="bg-white"
+              >
+                Lesson: 
+                1
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                Technology
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                John Doe
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                February 04, 2024 11:26AM
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                1500
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#EBF5EC] hover:bg-[#449657]  duration-[0.5s] text-[#449657] hover:text-[#EBF5EC]   border-[0.063rem] hover:border-[#EBF5EC] border-[#449657]   "
+                  >
+                    <span>
+                      publish
+                    </span>
+                    <span
+                      class="ml-[1rem] h-[1.5rem] w-[1.5rem]  flex justify-center items-center"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="1em"
+                        stroke="currentColor"
+                        stroke-width="0"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]   "
+                  >
+                    <span>
+                      Edit
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="grid grid-cols-14 "
+          style="grid-template-columns: repeat(14, minmax(0, 1fr));"
+        >
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <p
+                class="bg-white"
+              >
+                AWWWEEE
+              </p>
+              <p
+                class="bg-white"
+              >
+                Topic: 
+                1
+              </p>
+              <p
+                class="bg-white"
+              >
+                Lesson: 
+                1
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                Technology
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                John Doe
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                February 04, 2024 11:26AM
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div>
+              <p
+                class="bg-white"
+              >
+                1500
+              </p>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#EBF5EC] hover:bg-[#449657]  duration-[0.5s] text-[#449657] hover:text-[#EBF5EC]   border-[0.063rem] hover:border-[#EBF5EC] border-[#449657]   "
+                  >
+                    <span>
+                      publish
+                    </span>
+                    <span
+                      class="ml-[1rem] h-[1.5rem] w-[1.5rem]  flex justify-center items-center"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="1em"
+                        stroke="currentColor"
+                        stroke-width="0"
+                        viewBox="0 0 512 512"
+                        width="1em"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+          <div
+            class="p-2 border-b flex justify-start items-center"
+            style="grid-column: span 2;"
+          >
+            <div
+              class="bg-white"
+            >
+              <a
+                href="/"
+                target="_self"
+              >
+                <span
+                  class="flex justify-center items-center  "
+                >
+                  <span
+                    class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]   "
+                  >
+                    <span>
+                      Edit
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

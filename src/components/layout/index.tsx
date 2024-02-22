@@ -5,7 +5,7 @@ import React from 'react';
 
 export const Layout = ({ children, tableData }: ILandingPageLayout) => {
   return (
-    <div className={`container`}>
+    <div className={`container`} data-testid={'landingPagePicker'}>
       {/* header part */}
       <div
         className={`flex justify-between bg-[#FFFFFF] mt-5 p-4 shadow-md rounded-md`}

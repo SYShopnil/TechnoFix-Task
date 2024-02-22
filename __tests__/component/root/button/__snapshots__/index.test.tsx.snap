@@ -10,7 +10,7 @@ exports[`When Button 1 component has rendered Expect it has been rendered succes
     class="flex justify-center items-center  "
   >
     <span
-      class="text-base_2  flex justify-center items-center px-[1.5rem] py-[1rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#EDEDED] hover:bg-[#7A67EE]  duration-[0.5s] text-[#7A67EE] hover:text-[#EDEDED]   border-[0.063rem] hover:border-[#EDEDED] border-[#7A67EE]  "
+      class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#EDEDED] hover:bg-[#7A67EE]  duration-[0.5s] text-[#7A67EE] hover:text-[#EDEDED]   border-[0.063rem] hover:border-[#EDEDED] border-[#7A67EE]   "
     >
       <span>
         Button Link
@@ -47,7 +47,7 @@ exports[`When Button 1 component has rendered Expect it has been rendered succes
     class="flex justify-center items-center  "
   >
     <span
-      class="text-base_2  flex justify-center items-center px-[1.5rem] py-[1rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]  "
+      class="text-base md:text-base_2  flex justify-center items-center px-[1rem] py-[0.5rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]   "
     >
       <span>
         Back to Homepage Two
