@@ -1,11 +1,4 @@
-// import { homePageMockData } from '@root/__mock-props__/component/view/home';
-// import { HomePage } from '@src/components/view';
-// import { IHomePage } from '@src/types/view';
-import axios from 'axios';
-import type { NextPage } from 'next';
 import Head from 'next/head';
-import Image from 'next/image';
-import { useState } from 'react';
 
 import { LandingPageView } from '@src/components/view';
 import { tableMockData } from '@root/__mock-props__/component';
