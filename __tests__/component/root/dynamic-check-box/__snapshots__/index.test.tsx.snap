@@ -1,0 +1,243 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When Check Box has rendered Expect it has been rendered successfully 1`] = `
+<div
+  class="bg-[#FFFFFF] shadow-primary p-4 space-y-4 "
+  data-testid="checkBoxGetter"
+>
+  <div>
+    <h1
+      class="font-semibold text-black"
+    >
+      Add or removes columns
+    </h1>
+  </div>
+  <div
+    class="space-y-8"
+  >
+    <div>
+      <label
+        for="Title"
+      >
+        <span
+          class="relative"
+        >
+          <input
+            checked=""
+            class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+            type="checkbox"
+          />
+          <span
+            class="absolute top-[-10%] left-[14%]"
+          >
+            <svg
+              fill="#FFFFFF"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="ml-2 font-semibold capitalize text-[1.25rem]"
+        >
+          Title
+        </span>
+      </label>
+    </div>
+    <div>
+      <label
+        for="Categories"
+      >
+        <span
+          class="relative"
+        >
+          <input
+            class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+            type="checkbox"
+          />
+        </span>
+        <span
+          class="ml-2 font-semibold capitalize text-[1.25rem]"
+        >
+          Categories
+        </span>
+      </label>
+    </div>
+    <div>
+      <label
+        for="Price"
+      >
+        <span
+          class="relative"
+        >
+          <input
+            class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+            type="checkbox"
+          />
+        </span>
+        <span
+          class="ml-2 font-semibold capitalize text-[1.25rem]"
+        >
+          Price
+        </span>
+      </label>
+    </div>
+    <div>
+      <label
+        for="Date"
+      >
+        <span
+          class="relative"
+        >
+          <input
+            checked=""
+            class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+            type="checkbox"
+          />
+          <span
+            class="absolute top-[-10%] left-[14%]"
+          >
+            <svg
+              fill="#FFFFFF"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="ml-2 font-semibold capitalize text-[1.25rem]"
+        >
+          Date
+        </span>
+      </label>
+    </div>
+    <div>
+      <label
+        for="Author"
+      >
+        <span
+          class="relative"
+        >
+          <input
+            checked=""
+            class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+            type="checkbox"
+          />
+          <span
+            class="absolute top-[-10%] left-[14%]"
+          >
+            <svg
+              fill="#FFFFFF"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="ml-2 font-semibold capitalize text-[1.25rem]"
+        >
+          Author
+        </span>
+      </label>
+    </div>
+    <div>
+      <label
+        for="Status"
+      >
+        <span
+          class="relative"
+        >
+          <input
+            checked=""
+            class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+            type="checkbox"
+          />
+          <span
+            class="absolute top-[-10%] left-[14%]"
+          >
+            <svg
+              fill="#FFFFFF"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="ml-2 font-semibold capitalize text-[1.25rem]"
+        >
+          Status
+        </span>
+      </label>
+    </div>
+    <div>
+      <label
+        for="Action"
+      >
+        <span
+          class="relative"
+        >
+          <input
+            checked=""
+            class="appearance-none w-5 h-5 border-2 border-gray-300 rounded-md checked:bg-red-500 checked:border-red-600 checked:text-white checked:outline-none checked:relative checked:before:block checked:content-[''] checked:w-5 checked:h-5 checked:border-white checked:border-solid checked:mx-auto"
+            type="checkbox"
+          />
+          <span
+            class="absolute top-[-10%] left-[14%]"
+          >
+            <svg
+              fill="#FFFFFF"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="ml-2 font-semibold capitalize text-[1.25rem]"
+        >
+          Action
+        </span>
+      </label>
+    </div>
+  </div>
+</div>
+`;

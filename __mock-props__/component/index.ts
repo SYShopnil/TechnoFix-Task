@@ -1,0 +1,1 @@
+export { tableMockData } from './view/';

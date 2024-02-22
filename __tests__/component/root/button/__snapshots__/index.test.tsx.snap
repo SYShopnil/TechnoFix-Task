@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When Button 1 component has rendered Expect it has been rendered successfully 1`] = `
+<a
+  data-testid="Redirect Button One"
+  href="https://chat.openai.com/"
+  target="_blank"
+>
+  <span
+    class="flex justify-center items-center  "
+  >
+    <span
+      class="text-base_2  flex justify-center items-center px-[1.5rem] py-[1rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#EDEDED] hover:bg-[#7A67EE]  duration-[0.5s] text-[#7A67EE] hover:text-[#EDEDED]   border-[0.063rem] hover:border-[#EDEDED] border-[#7A67EE]  "
+    >
+      <span>
+        Button Link
+      </span>
+      <span
+        class="ml-[1rem] h-[1.5rem] w-[1.5rem]  flex justify-center items-center"
+      >
+        <svg
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"
+          />
+        </svg>
+      </span>
+    </span>
+  </span>
+</a>
+`;
+
+exports[`When Button 1 component has rendered Expect it has been rendered successfully 2`] = `
+<a
+  data-testid="Redirect Button Two"
+  href="/"
+  target="_self"
+>
+  <span
+    class="flex justify-center items-center  "
+  >
+    <span
+      class="text-base_2  flex justify-center items-center px-[1.5rem] py-[1rem] rounded-[0.563rem] w-[100%] h-[100%] bg-[#7A67EF] hover:bg-[transparent]  duration-[0.5s] text-[#FFFAFF] hover:text-[#7A67EF]  border-[0.063rem] border-primary_300 hover:border-[#7A67EF]  "
+    >
+      <span>
+        Back to Homepage Two
+      </span>
+    </span>
+  </span>
+</a>
+`;
