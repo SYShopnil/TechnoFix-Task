@@ -16,14 +16,14 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/SYShopnil/AgencyTaskLH.git
+  git clone https://github.com/SYShopnil/TechnoFix-Task.git
 ```
 
 Go to the project directory
 
 ```bash
   cd
-  AgencyTaskLH
+  TechnoFix-Task
 ```
 
 Install dependencies
