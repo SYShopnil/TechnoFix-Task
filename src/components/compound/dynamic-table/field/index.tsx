@@ -13,7 +13,7 @@ export const Field = ({ fieldData }: IField) => {
       return <Field.Title fieldData={fieldData} />;
     }
     case IFieldName.Action: {
-      return <Field.Action fieldData={fieldData} />;
+      return <Field.Action />;
     }
     case IFieldName.Status: {
       return <Field.Status fieldData={fieldData} />;
@@ -33,6 +33,7 @@ Field.Title = ({ fieldData: { payload } }: IField) => {
     </div>
   );
 };
+(Field.Title as React.FC<IField>).displayName = 'FieldTitle';
 
 Field.Common = ({
   fieldData: {
@@ -45,6 +46,8 @@ Field.Common = ({
     </div>
   );
 };
+(Field.Common as React.FC<IField>).displayName = 'FieldCommon';
+
 Field.Status = ({
   fieldData: {
     payload: { value },
@@ -70,7 +73,9 @@ Field.Status = ({
     </div>
   );
 };
-Field.Action = ({}: IField) => {
+(Field.Status as React.FC<IField>).displayName = 'FieldStatus';
+
+Field.Action = () => {
   return (
     <div className="bg-white">
       <Button.RedirectButton
@@ -83,3 +88,5 @@ Field.Action = ({}: IField) => {
     </div>
   );
 };
+
+(Field.Action as React.FC).displayName = 'FieldAction';

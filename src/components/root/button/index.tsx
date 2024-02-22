@@ -102,3 +102,5 @@ Button.RedirectButton = (props: IRedirectButton) => {
     </Link>
   );
 };
+(Button.RedirectButton as React.FC<IRedirectButton>).displayName =
+  'RedirectButton';

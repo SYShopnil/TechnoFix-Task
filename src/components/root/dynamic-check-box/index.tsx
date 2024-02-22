@@ -18,7 +18,7 @@ export const DynamicCheckBox = ({
       <div className={`space-y-8`}>
         {checkBoxData.map((item, ind) => {
           return (
-            <div>
+            <div key={ind}>
               <label htmlFor={item.name}>
                 <span className={`relative`}>
                   <input
